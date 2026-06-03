@@ -1,6 +1,6 @@
 # Kit Crafter
 
-A keyboard-first desktop app for browsing, previewing, trimming, and exporting audio samples — built for drum machine and sampler workflows.
+A Python-based, keyboard-first desktop app for browsing, previewing, trimming, and exporting audio samples — built for drum machine and sampler workflows.
 
 ![version](https://img.shields.io/badge/version-v0.95-blue)
 ![python](https://img.shields.io/badge/python-3.10%2B-brightgreen)
