@@ -14,7 +14,7 @@ This software is HEAVILY inspired by an app called Sample Scout. You can find it
 
 ![Sample Scout](docs/samplescout.png)
 
-My version of the app is less detailed, less precise, less error-resistant. It's a thing I did while being bored on holiday.
+My version of the app is less detailed, less precise, less error-resistant. It's a thing I did while being bored on aholiday-trip.
 
 When I looked at one video reviewing Sample Scout I came across a comment that mentioned the vibe-coded-ness of the colour scheme. Which- and this is the interesting aspect- immediately made me feel the original developer's effort less worthy. As someone who developed a lot of software and hardware myself, I do know about the effort, the struggle, etc. Even in times of AI, vibecoding etc. I still respect other people's work. I am writing this more out of surprise about how the presence of AI shifts the view on things that, maybe up until last year, have been a result of experience, practice and long coding sessions- even for those in the know.
 
