@@ -8,6 +8,19 @@ A keyboard-first desktop app for browsing, previewing, trimming, and exporting a
 ![Kit Crafter screenshot](docs/screenshot.png)
 
 ---
+## Editor's note: Sample Scout, app-cloning, prompt-versioning
+
+This software is HEAVILY inspired by an app called Sample Scout. You can find it here: https://samplescout.app/ . Actually it is so heavily inspired that it might be cringe-worthy. Sample Scout is the original one. It's an awesome app with an awesome idea behind it, awesomely built. You should have a look at it. You should buy it. It is the better app.
+
+My version of the app is less detailed, less precise, less error-resistant. It's a knockoff.
+
+When I looked at one video reviewing Sample Scout I came across a comment that mentioned the vibe-coded-ness of the colour scheme. Which- and this is the interesting aspect- immediately made me disrespect the original developer's effort. Please don't get me wrong: As someone who developed a lot of software and hardware myself, I do know about the effort, the struggle, etc. Even in times of AI, vibecoding etc. I still respect other people's work. I am writing this more out of surprise about how the presence of AI shifts (or might shift) the view on things that, maybe up until last year, have been a result of experience, practive and long coding sessions- even for those in the trade.
+
+Furthermore, this is an experiment on how to clone an app. Literally. I want to get familiar with various AI techniques and cloning an app might be an interesting thng to learn from. May include fuzzy testing, code analysis, etc. I strongly think, that app-cloning already IS a topic that developers have to face- for now it'll be smaller apps, but with the increasing power of AI models it will, that's what I think, only be a matter of time for apps to be nothing more than a good idea, than something to earn money with. 
+
+I also think that the structure of open source and/ or git repositories will shift. When it's versioned sourcecode for now, I bet it will be versioned recreation-prompts in the future. The repo contains https://github.com/andymann/kit-crafter/blob/main/RECREATE_PROMPT.md which is extactly that. 
+
+---
 
 ## Features
 
