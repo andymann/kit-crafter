@@ -20,7 +20,7 @@ When I looked at one video reviewing Sample Scout I came across a comment that m
 
 Furthermore, this is an experiment on how to clone an app. Literally. I want to get familiar with various AI techniques and cloning an app might be an interesting thng to learn from. May include fuzzy testing, code analysis, etc. I strongly think, that app-cloning already IS a topic that developers have to face- for now it'll be smaller apps, but with the increasing power of AI models it will, that's what I think, only be a matter of time for apps to be nothing more than a good idea, than something to earn money with. 
 
-I also think that the structure of open source and/ or git repositories will shift. When it's versioned sourcecode for now, I bet it will be versioned recreation-prompts in the future. The repo contains https://github.com/andymann/kit-crafter/blob/main/RECREATE_PROMPT.md which is extactly that. Let's see if I am correct with my assumption.
+I also think that the structure of open source and/ or git repositories will shift. When it's versioned sourcecode for now, I bet it will be versioned recreation-prompts in the future. The repo contains https://raw.githubusercontent.com/andymann/kit-crafter/refs/heads/main/RECREATE_PROMPT.md which is extactly that. Let's see if I am correct with my assumption.
 
 ---
 
