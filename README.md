@@ -8,7 +8,7 @@ A Python-based, keyboard-first desktop app for browsing, previewing, trimming, a
 ![Kit Crafter screenshot](docs/screenshot.png)
 
 ---
-## Editor's note: Sample Scout, app-cloning, prompt-versioning
+## Sample Scout, app-cloning, prompt-versioning
 
 This software is HEAVILY inspired by an app called Sample Scout. You can find it here: https://samplescout.app/ . Actually it is so heavily inspired that it might be seen cringe-worthy. Sample Scout is the original one. It's an awesome app with an awesome idea behind it, awesomely built. You should have a look at it. You should buy it. It is the better app.
 
