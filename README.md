@@ -5,6 +5,8 @@ A keyboard-first desktop app for browsing, previewing, trimming, and exporting a
 ![version](https://img.shields.io/badge/version-v0.95-blue)
 ![python](https://img.shields.io/badge/python-3.10%2B-brightgreen)
 
+![Kit Crafter screenshot](docs/screenshot.png)
+
 ---
 
 ## Features
