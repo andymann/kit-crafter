@@ -12,8 +12,9 @@ import numpy as np
 
 try:
     import pygame
+    import pygame.mixer  # noqa: F401 — verify mixer submodule is available
     _PYGAME = True
-except ImportError:
+except (ImportError, NotImplementedError):
     _PYGAME = False
 
 try:
